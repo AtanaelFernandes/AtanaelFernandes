@@ -18,8 +18,11 @@
   <br /><br />
   <hr />
   <br />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AtanaelFernandes&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&count_private=true" height="150" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=AtanaelFernandes&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&count_private=true" height="150" alt="Top Langs" />
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtanaelFernandes&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtanaelFernandes&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=aaaaaa&dates=aaaaaa&hide_border=true" alt="Streak Stats" />
 
 </div>
