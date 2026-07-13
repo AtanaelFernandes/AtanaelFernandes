@@ -1,7 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/VMybX4t1/darksouls-banner.jpg" width="100%" alt="Dark Souls Banner" />
 
-  <br /><br />
   ### Olá! Eu sou o **Atanael** 
   *Sou um estudante de programação, tenho interesse em Linux e desenvolvimento backend.*
 
