@@ -3,8 +3,12 @@
   ### Olá! Eu sou o **Atanael** 
   *Sou um estudante de programação, tenho interesse em Linux e desenvolvimento backend.*
   
-  [![Instagram](https://img.shields.shields.shields.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/athanrxz)
-[![Email](https://img.shields.shields.shields.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athanaelfernandes942@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/athanrxz)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athanaelfernandes942@gmail.com)
+<br />
+<br />
+<hr />
+<br /
   <br />
   
   <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -19,8 +23,5 @@
   <br /><br />
   <hr />
   <br />
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtanaelFernandes&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtanaelFernandes&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Minhas%20Contribuições" width="100%" alt="Activity Graph" />
 </div>
