@@ -23,5 +23,4 @@
   <br /><br />
   <hr />
   <br />
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtanaelFernandes&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Minhas%20Contribuições" width="100%" alt="Activity Graph" />
-</div>
+
